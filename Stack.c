@@ -1,10 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
-
-
-
 struct ArrayStack
 {
   int top;
